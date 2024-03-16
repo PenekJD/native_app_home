@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "MobileGame",
+    "slug": "MobileGame",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "MobileGame"
+}
